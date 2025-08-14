@@ -1,2 +1,2 @@
 # ripples
-Messing around with Claude AI artifacts.
+Messing around with Claude AI artifacts
